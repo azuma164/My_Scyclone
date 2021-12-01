@@ -230,7 +230,7 @@ class Scyclone(pl.LightningModule):
             fake_B_wave = torch.cat((fake_B_wave, outs[i]["wave"]["Validation/A2B"]), 1)
             print(fake_B_wave.size())
 
-        fake_B_wave_path = "scyclonepytorch/data/dataset_fake_obamawave/1.wav"
+        fake_B_wave_path = "scyclonepytorch/data/converted_to_jsut_from_api/result.wav"
         # fake_A_wave_path = "scyclonepytorch/data/dataset_fake_apiwave/1.wav"
         fake_B_wave = fake_B_wave.to('cpu')
         # fake_A = fake_A.to('cpu')
