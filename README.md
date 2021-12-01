@@ -1,5 +1,5 @@
 # Scycloneを用いたvoice-conversion
-- こちらは、東京大学工学部電気電子工学科・電子情報工学科の後期実験のうちの一つ「人工知能演習」の(成果物)[https://github.com/azuma164/MakeTranslationVideo_usingCycleGANVC2]で利用したものです
+- こちらは、東京大学工学部電気電子工学科・電子情報工学科の後期実験のうちの一つ「人工知能演習」の[成果物](https://github.com/azuma164/MakeTranslationVideo_usingCycleGANVC2)で利用したものです
 - 詳しい内容は[こちらのスライド](https://docs.google.com/presentation/d/19x3D4mF2lnlS_hGi-JnrOCVlNS9QgH8cxBwck3ulSCs/edit?usp=sharing)の27-34ページに書いてあります
 
 ## Original paper
